@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7iYl1m4hY4fZKsbThc7y9ZMsmQ9UZ7pcE7kJP/xU4NhIMt2xb1yilTlt9l5B0LPiluzRhozsrjzYRKNdfE+WPw==",
+  "dgSpecHash": "RlUrOVPqMmYp71PPM1soszf2G2CAsrjqDIu8I5U8MUi8lj82BCBlzQRrw9fJRzBCEvc6P9TT6dVc0jnfxdCu5Q==",
   "success": true,
-  "projectFilePath": "/home/apolm01-019/Videos/persistencia/persistencia.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\sergio\\persistencia\\persistencia.csproj",
   "expectedPackageFiles": [
-    "/home/apolm01-019/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

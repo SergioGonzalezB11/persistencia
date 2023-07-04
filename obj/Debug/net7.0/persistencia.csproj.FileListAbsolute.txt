@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\persistencia.exe
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\persistencia.deps.json
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\persistencia.runtimeconfig.json
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\persistencia.dll
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\persistencia.pdb
+C:\Users\hp\Desktop\sergio\persistencia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.AssemblyInfo.cs
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.csproj.CopyComplete
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.dll
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\refint\persistencia.dll
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.pdb
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\persistencia.genruntimeconfig.cache
+C:\Users\hp\Desktop\sergio\persistencia\obj\Debug\net7.0\ref\persistencia.dll
